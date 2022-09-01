@@ -11,7 +11,7 @@ Our mission is to interact with newcomers and experienced peers, inspire each ot
 
 # Training Workshops
 
-We offer [`training workshops`](http://oscnigeria.org/training) to teach scientists, researchers,  the data science skills they need to examine their own data. Participants are introduced to the R programming language and to cutting-edge technologies used in single-cell and bulk RNA-sequencing data analysis. All of our training materials are openly licensed and freely available!
+We offer [`training workshops`](http://oscnigeria.org/training) to teach scientists, network of researchers and societal stakeholders about open science, open scholarly communication and journal publishing, data science and open source practices. All of our training materials are openly licensed and freely available!
 
 
 * [Sign up to be notified about future training workshops.](https://share.hsforms.com/) 
