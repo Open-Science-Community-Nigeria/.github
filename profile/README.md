@@ -7,7 +7,7 @@ Open Science community Nigeria (OSCN) is a scientist-driven nonprofit organisati
 
 - 👩‍💻 Check out our [website](https://oscnigeria.org/).
 - 🍿 Join our community using [this form](https://form.jotform.com/) to get involved!
-- 📚 Access our workshops materials/resources on [Zenodo](https://zenodo.org/).
+- 📚 Access our workshops materials/resources on [Zenodo](https://zenodo.org/communities/oscnigeria/?page=1&size=20).
 - 🙋‍♀️ Come and say hi on our [Discussion](https://github.com/orgs/Open-Science-Community-Nigeria/discussions)!
 - 🤗 Please abide by our community [code of conduct](https://github.com/).
 
