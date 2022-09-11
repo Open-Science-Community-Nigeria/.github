@@ -30,4 +30,4 @@ We offer [`training workshops`](http://oscnigeria.org/training) to teach scienti
 
 For inquiries, please contact us at [`info@oscnigeria.org`](mailto:info@oscnigeria.org).
 
-Support our work by making a contribution to Open Science Community Nigeria. [**Donate here!**](http://oscnigeria.org/donate-link)
+Support our work by making a contribution to Open Science Community Nigeria. [**Donate here!**](https://flutterwave.com/donate/qmstduhwmaiu)
