@@ -9,6 +9,9 @@ Our mission is to interact with newcomers and experienced peers, inspire each ot
 
 # Our Projects
 
+## Open Library of Science 
+## BioReview Journal 
+
 # Training Workshops
 
 We offer [`training workshops`](http://oscnigeria.org/training) to teach scientists, network of researchers and societal stakeholders about open science, open scholarly communication and journal publishing, data science and open source practices. All of our training materials are openly licensed and freely available!
