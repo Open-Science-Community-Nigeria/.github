@@ -22,7 +22,7 @@ We offer [`training workshops`](http://oscnigeria.org/training) to teach scienti
 
 # Get Involved
 
-- 👩‍💻 Visit us at [`oscnigeria.org`](http://oscnigeria.org) and follow us on Twitter, [`@OSC_Nigeria.`](https://twitter.com/OSC_Nigeria)
+- 👩‍💻 Visit us at [`oscnigeria.org`](http://oscnigeria.org) and follow us on Twitter, [`@OpenSciNigeria.`](https://twitter.com/OpenSciNigeria)
 - 🍿 Join our community using [this form](https://form.jotform.com/) to get involved!
 - 📚 Access our workshops materials/resources on [Zenodo](https://zenodo.org/communities/oscnigeria/?page=1&size=20).
 - 🙋‍♀️ Come and say hi on our [Discussion](https://github.com/orgs/Open-Science-Community-Nigeria/discussions)!
